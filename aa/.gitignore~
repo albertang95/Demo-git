@@ -4,5 +4,3 @@
 # Ada Library Information
 *.ali
 
-# git ignore
-/config
